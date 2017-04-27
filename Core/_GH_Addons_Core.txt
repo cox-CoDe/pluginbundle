@@ -1,0 +1,1 @@
+This folder contains core GH addons that are standard to all Cox Grasshopper installs.
