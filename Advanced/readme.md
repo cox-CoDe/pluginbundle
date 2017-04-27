@@ -1,0 +1,1 @@
+This folder contains GH addons for advanced and expert users.

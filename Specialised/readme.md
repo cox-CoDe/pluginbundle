@@ -1,0 +1,1 @@
+This folder contains GH addons that perform specialised or uncommon functions.
